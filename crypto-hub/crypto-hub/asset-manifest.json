@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jayacrypto/static/css/main.ca952040.chunk.css",
+    "main.js": "/jayacrypto/static/js/main.a7473676.chunk.js",
+    "main.js.map": "/jayacrypto/static/js/main.a7473676.chunk.js.map",
+    "runtime-main.js": "/jayacrypto/static/js/runtime-main.c13dda6d.js",
+    "runtime-main.js.map": "/jayacrypto/static/js/runtime-main.c13dda6d.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/jayacrypto/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.457ec501.chunk.js": "/jayacrypto/static/js/2.457ec501.chunk.js",
+    "static/js/2.457ec501.chunk.js.map": "/jayacrypto/static/js/2.457ec501.chunk.js.map",
+    "index.html": "/jayacrypto/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/jayacrypto/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.ca952040.chunk.css.map": "/jayacrypto/static/css/main.ca952040.chunk.css.map",
+    "static/js/2.457ec501.chunk.js.LICENSE.txt": "/jayacrypto/static/js/2.457ec501.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c13dda6d.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.457ec501.chunk.js",
+    "static/css/main.ca952040.chunk.css",
+    "static/js/main.a7473676.chunk.js"
+  ]
+}
